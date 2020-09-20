@@ -1,5 +1,5 @@
 ## Surfing App - Flutter UI
-We created a simple and clean Surfing application UI using Flutter.
+We created a simple and clean Surfing Social application UI using Flutter.
 
 [Watch it on Youtube]()
 
